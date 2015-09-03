@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+echo HELLO THIS IS A POSTBUILD SCRIPT
+echo $PATH
+echo $BUDDYBUILD_IPA_PATH
